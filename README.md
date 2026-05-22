@@ -5,7 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/abhilok-reddy-bellamkonda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/0xabhilok"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=0xabhilok&style=for-the-badge&color=7c5cff&label=PROFILE+VIEWS" alt="Profile views"/>
+ 
 </p>
 
 </div>
