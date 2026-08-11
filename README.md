@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Abhilok+Reddy;CSE+student+%40+IIIT+Guwahati;Full-stack+%2B+real-time+systems;Currently+building+PocraEnd" alt="Abhilok Reddy" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Abhilok+Reddy;CSE+student+%40+IIIT+Guwahati;Full-stack+%2B+desktop+apps;Currently+building+PocraEnd" alt="Abhilok Reddy" />
 
 <p>
   <a href="https://www.linkedin.com/in/abhilok-reddy-bellamkonda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
